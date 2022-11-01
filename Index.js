@@ -30,3 +30,4 @@ btn.addEventListener('click',function(e){
 	let li=e.target.parentNode;
 	box.removeChild(li);
 	});
+
